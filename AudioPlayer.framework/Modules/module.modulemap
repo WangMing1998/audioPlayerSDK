@@ -1,0 +1,6 @@
+framework module WMAudioPlayer {
+  umbrella header "WMAudioPlayer.h"
+
+  export *
+  module * { export * }
+}
